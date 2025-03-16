@@ -1,0 +1,19 @@
+### Observations for Task 4 - Part 1: Substantive Testing
+
+#### 1. Balance Sheet Discrepancies
+- Differences between total assets and total liabilities + equity, indicating an imbalance.
+- Unusual or large fluctuations in account balances compared to the prior year.
+- Presence of negative balances where they are not expected (e.g., negative cash or retained earnings).
+- Misclassification of assets or liabilities.
+
+#### 2. Number of Journals Posted by Finance Team Employees
+- Excessive journal entries in the closing period, which may indicate adjustments to manipulate financials.
+- Unusual patterns, such as multiple entries by the same employee near period-end.
+- Lack of proper segregation of duties (e.g., the same person posting and approving entries).
+- Repeated manual adjustments, which could suggest system errors or misstatements.
+
+#### 3. Key Financial Metrics from Profit and Loss and Balance Sheet
+- Significant variances in revenue, expenses, or profit margins compared to previous years or budgets.
+- Unexplained increases in expenses, especially in discretionary categories.
+- High levels of receivables or slow-moving inventory, suggesting potential write-offs.
+- Unusual trends in liquidity ratios (e.g., current ratio dropping below industry norms).
